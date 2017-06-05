@@ -14,6 +14,8 @@ A list of services that offer healthy pre-packaged meals. Not meal components, b
 * [Freshly](https://www.freshly.com)
 * [I AM Co](https://iamco.co.nz)
 * [My Food Bag - Fresh Start](https://www.myfoodbag.co.nz/fresh-start)
+* [Little Bird Organics](https://littlebirdorganics.co.nz/)
+* [Real Meal Co](https://www.realmeal.co.nz/)
 
 ## Gym stuff
 
@@ -23,6 +25,11 @@ A list of services that offer healthy pre-packaged meals. Not meal components, b
 ## Breakfast specific
 
 * [The Muesli Hub](http://www.themueslihub.co.nz)
+
+## Juices & snacks
+
+* [Nomad Nutrition](http://www.nomadnutrition.co.nz/)
+* [Snackpack](https://www.snackpack.co.nz/)
 
 ## I can't believe it's not food
 
