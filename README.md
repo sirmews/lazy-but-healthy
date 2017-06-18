@@ -11,11 +11,12 @@ A list of services that offer healthy pre-packaged meals. Not meal components, b
 * [Eat Real Simple](https://eatrealsimple.nz)
 * [Eat Unlimited](https://eat.co.nz)
 * [Primal Kitchen](http://primalkitchen.co.nz)
-* [Freshly](https://www.freshly.com)
 * [I AM Co](https://iamco.co.nz)
 * [My Food Bag - Fresh Start](https://www.myfoodbag.co.nz/fresh-start)
 * [Little Bird Organics](https://littlebirdorganics.co.nz/)
 * [Real Meal Co](https://www.realmeal.co.nz/)
+* [Village Kitchen](https://www.villagekitchen.co.nz)
+* [PHD Meal Plans](http://resetme.phd.co.nz/resetme-meal-plans)
 
 ## Gym stuff
 
