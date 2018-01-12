@@ -18,6 +18,7 @@ A list of services that offer healthy pre-packaged meals. Not meal components, b
 * [Village Kitchen](https://www.villagekitchen.co.nz)
 * [PHD Meal Plans](http://resetme.phd.co.nz/resetme-meal-plans)
 * [Eat My Lunch](https://www.eatmylunch.nz/)
+* [Papagaio Health Cafe](https://www.papagaio.co.nz)
 
 ## Gym stuff
 
