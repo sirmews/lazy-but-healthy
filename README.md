@@ -37,10 +37,3 @@ A list of services that offer healthy pre-packaged meals. Not meal components, b
 
 * [Yeah Bowl](http://www.yeahbowl.com)
 
-## Todo
-
-* [ ] Order alphabetically
-* [ ] Split list based on delivery region
-* [ ] Average price or lowest to highest
-* [ ] Add social links for instant sleuthing
-* [ ] Designate Paleo, Gluten Free support
