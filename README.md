@@ -35,7 +35,3 @@ A list of services that offer healthy pre-packaged meals. Not meal components, b
 * [Nomad Nutrition](http://www.nomadnutrition.co.nz/)
 * [Snackpack](https://www.snackpack.co.nz/)
 
-## One off healthies
-
-* [Yeah Bowl](http://www.yeahbowl.com)
-
