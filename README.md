@@ -18,7 +18,6 @@ A list of services that offer healthy pre-packaged meals. Not meal components, b
 * [PHD Meal Plans](http://resetme.phd.co.nz/resetme-meal-plans)
 * [Eat My Lunch](https://www.eatmylunch.nz/)
 * [Papagaio Health Cafe](https://www.papagaio.co.nz)
-* [Brain Fuel](https://www.brainfuel.co.nz/)
 * [Fresh To Go](https://freshtogo.co.nz/)
 * [FED](https://www.getfed.co.nz)
 * [Gym Chef](https://gymchef.co.nz) (No delivery, pickup from select locations)
