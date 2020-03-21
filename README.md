@@ -22,6 +22,7 @@ A list of services that offer healthy pre-packaged meals. Not meal components, b
 * [FED](https://www.getfed.co.nz)
 * [Gym Chef](https://gymchef.co.nz) (No delivery, pickup from select locations)
 * [Swole Foods](https://swolefoods.co.nz/)
+* [Health Kicks NZ](https://www.healthkicks.nz)
 
 ## Gym stuff
 
