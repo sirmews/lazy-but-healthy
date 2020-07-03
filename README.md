@@ -37,3 +37,8 @@ A list of services that offer healthy pre-packaged meals. Not meal components, b
 * [Nomad Nutrition](http://www.nomadnutrition.co.nz/)
 * [Snackpack](https://www.snackpack.co.nz/)
 
+## Meal Replacement
+
+* [Twnty5](https://www.twnty5.com/) | NZ
+* [Aussielent](https://aussielent.com.au/) | AU | Low Carb
+* [Ultim](https://ultim.me/) | AU | Keto
